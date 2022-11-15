@@ -19,7 +19,7 @@ class Game
 
   def intro_game
     puts 'Welcome to the dungeon!'
-    puts 'You have 100 HP and 10 attack points.'
+    puts "You have #{@player.health_points} health points and #{@player.attack_points} attack points."
     puts 'You can move around the dungeon and search for items.'
     puts 'You can also attack monsters that you encounter.'
     puts 'If you find a sword, your attack points will increase.'
