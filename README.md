@@ -5,16 +5,14 @@ Follow the text prompts and venture through the dungeons.
 
 Test your luck! Everything is about chance!
 
-"s - search" the dungeon for treasure, but beware of monsters!
+"s - search" the dungeon for the key to escape, but beware of monsters!
 
 "m -move" to the next dungeon or you might be lucky and find the exit!
 
-Search for treasure!
+Fight monsters! with "a -attack", but keep an eye on your Health Point (HP).
 
-Fight monsters!
+Find that key and escape and don't die along the way!
 
-Escape!
-
-To begin; run ruby rpg.rb
+To begin; run ruby game.rb
 
 # Good Luck! 
